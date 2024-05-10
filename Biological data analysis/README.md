@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results](#results/-finding)
+- [Findings](#findings)
 
 ### Project Overview
 This data analysis project aims to uncover molecular mechanisms underlying disease progression and treatment 
@@ -36,7 +36,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 Include some interesting code/ features work with
 
-### Results/ Finding
+### Findings
 
 The analysis results are summarized as follow:
 
