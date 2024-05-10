@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results](#results/-findings)
+- [Results](#results/-finding)
 
 ### Project Overview
 This data analysis project aims to uncover molecular mechanisms underlying disease progression and treatment 
