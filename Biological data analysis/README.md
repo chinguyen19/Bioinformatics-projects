@@ -74,6 +74,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Stress Response**
   - **Infection Response**
   - **Blood Regulation**
+
 ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
 
 ## Discussion
