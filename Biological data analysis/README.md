@@ -6,8 +6,7 @@
 - [Findings](#findings)
 
 ## Project Overview
-This data analysis project aims to uncover molecular mechanisms underlying disease progression and treatment 
-resistance of Prostate Cancer.
+This project investigates the **transcriptome differences** between untreated prostate cancer (PC) and locally recurrent castration-resistant prostate cancer (CRPC) samples. By analyzing gene expression profiles using RNA-seq data, we aim to identify specific genetic factors and pathways associated with disease progression and treatment resistance in **prostate cancer**.
 
 ### Data Sources
 
@@ -75,7 +74,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Infection Response**
   - **Blood Regulation**
 
-![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
+    ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
 
 ## Discussion
 
