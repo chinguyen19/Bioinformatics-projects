@@ -42,14 +42,14 @@ The analysis results are summarized as follow:
 
 Differential espression analysis was carried out using DESqe. Student t’test was chosen for the statistical
  test.
-![volcano plot displaying genes with differences of means and -log10(p_vlaues)](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/09b32518-6940-43a7-aeb5-7c1539f8887e) {: width="400px"}
+![volcano plot displaying genes with differences of means and -log10(p_vlaues)](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/09b32518-6940-43a7-aeb5-7c1539f8887e){: width="400px"}
 
 PCA analysis was performed to visualize the variance per component. Different level of espression for the two groups was clearly observed. 
-![heatmap](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/767a7076-7397-4fb3-99ae-de200d4a85f2) {: width="400px"}
+![heatmap](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/767a7076-7397-4fb3-99ae-de200d4a85f2){: width="400px"} 
 
  KEGG pathway enrichment is performed using the list of differentially expressed genes identified implying potential biological processes
  associated with the observed gene expression change. 
  
-![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0) {: width="400px"}
+![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0){: width="400px"} 
 
 There are 2 samples (PC 6864 and PC 9324) from PC group that fell far away from their group, which is confirmed by the following PCA analysis. Thus, these 2 samplesare outliers which can represent different in biological sense compared to the PC group. According to the Cancer research, it is likely that these samples share the molecular characteristics with CRPC because of some specific genetic alterations that might lead to different molecular pathways.
