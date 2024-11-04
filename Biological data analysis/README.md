@@ -53,11 +53,11 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 ### Findings
 
-### Clustering and PCA Analysis
+#### Clustering and PCA Analysis
 - **Outliers Identified**: Samples **PC 6864** and **PC 9324** from the PC group clustered separately, aligning more closely with the CRPC group. This suggests potential molecular similarities with CRPC.
 - **PCA Visualization**: Differentiated expression levels were visually evident, with **green dots representing CRPC** and **red dots representing PC**, confirming the clustering patterns.
 
-### Differential Expression and Volcano Plot
+#### Differential Expression and Volcano Plot
 - **Differential Expression**:
   - **506 genes** met the significance criteria (p-value < 0.0001 and effect size > 1).
   - The **volcano plot** shown below highlights upregulated and downregulated genes in distinct colors, with significantly expressed genes listed at the top by ascending adjusted p-value.
@@ -67,14 +67,18 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - The list of top differentially expressed genes provides insights into key genetic changes between PC and CRPC samples.
   - Genes predominantly **downregulated** in the PC group may indicate reduced expression as a possible mechanism of treatment resistance.
 
-### Pathway Enrichment Analysis
+#### Pathway Enrichment Analysis
 - Enriched pathways reveal biological processes potentially underlying CRPC progression, including:
   - **Cell Division Regulation**
   - **Hormone Regulation**
   - **Stress Response**
   - **Infection Response**
   - **Blood Regulation**
-
+|Enriched pathway ID| p-value|
+|05146| 0.0001132|
+|04512| 0.0001576|
+|00140| 0.0001628|
+|04100
 ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
 
 ## Discussion
