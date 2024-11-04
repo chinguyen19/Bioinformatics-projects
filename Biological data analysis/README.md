@@ -74,11 +74,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Stress Response**
   - **Infection Response**
   - **Blood Regulation**
-|Enriched pathway ID| p-value|
-|05146| 0.0001132|
-|04512| 0.0001576|
-|00140| 0.0001628|
-|04100
+
 ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
 
 ## Discussion
