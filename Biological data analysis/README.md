@@ -44,7 +44,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 3. **Differential Expression Analysis**:
    - Conducted using DESeq2 and **Student's t-test**.
-   - Significance criteria: **p-value < 0.0001** and **effect size > 1**.
+   - Significance criteria: with obtained **p-value < 0.0001** and **effect size > 1**.
    - Identified 506 genes as significantly differentially expressed.
 
 4. **Pathway Enrichment**:
