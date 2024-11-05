@@ -55,6 +55,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
 #### Clustering and PCA Analysis
 - **Outliers Identified**: Samples **PC 6864** and **PC 9324** from the PC group clustered separately, aligning more closely with the CRPC group. This suggests potential molecular similarities with CRPC.
 - **PCA Visualization**: Differentiated expression levels were visually evident, with **green dots representing CRPC** and **red dots representing PC**, confirming the clustering patterns.
+
 ![pca](https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b)
 
 
