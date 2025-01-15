@@ -24,9 +24,15 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
   The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms.
     
 
+
 ![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap.png)
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
 
 - **Why do some controls cluster with FM samples?**  
   This may indicate potential pre-symptomatic states, shared gene expression profiles, or variability introduced by noise in the data, warranting further investigation into these outliers.  
+
+
+![Figure 3: Some key enriched pathways in Fibromyalgia](https://github.com/chinguyen19/Bioinformatics-projects/blob/e3f88aebe0a6e604cc2ee737a2324085539aebc8/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png)
+- ##What are the genomic signatures through enriched biological pathways in Fibromyalgia?
+  Several enriched pathways, including those involved in energy metabolism, protein synthesis, stress responses, and neuroinflammation, provides valuable insights into the underlying mechanisms of FM, specifically related to fatigue, pain, and cognitive dysfunction.
