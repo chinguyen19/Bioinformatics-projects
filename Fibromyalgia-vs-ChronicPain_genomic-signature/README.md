@@ -16,14 +16,14 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 
 # Findings and Insights  
 
-![Figure 1: Gene Regulation Analysis with Volcano plot]([path_to_your_image1](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png).jpg) 
+![Figure 1: Gene Regulation Analysis with Volcano plot](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png) 
 - **Is fibromyalgia characterized by widespread gene regulation changes?**  
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
 
 - **Are there key genes central to fibromyalgia biology?**  
   The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms.  
 
-![Figure 2: Sample Clustering with Heatmap]([path_to_your_image2](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap.png).jpg)
+![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap.png)
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
 
