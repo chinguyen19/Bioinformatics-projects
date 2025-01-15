@@ -21,7 +21,8 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
 
 - **Are there key genes central to fibromyalgia biology?**  
-  The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms.  
+  The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms.
+    
 
 ![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap.png)
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
