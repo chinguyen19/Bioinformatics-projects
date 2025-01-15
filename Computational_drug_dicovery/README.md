@@ -16,3 +16,5 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 - **Data Source**: ChEMBL database
 - **Target Protein**: Acetylcholinesterase (ChEMBL ID: CHEMBL220)
 - **Bioactivity Data**: Compounds with bioactivity data classified as active, inactive, or intermediate.
+
+## Findings
