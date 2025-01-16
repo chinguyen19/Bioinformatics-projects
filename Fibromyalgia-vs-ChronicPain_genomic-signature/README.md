@@ -41,6 +41,6 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 - **Differential expression analysis**
   - Limma package in R was used on given FPKM-normalized counts
   - Voom was apllied to improve the limitation of Limma's assumption
--**Pathways analysis**
+- **Pathways analysis**
   - Gene IDs were mappped to KEGG pathways using Entrez gene indentifiers
   - Fisher's exact test was applied to identify pathways with a statiscally significantu6hb 56  
