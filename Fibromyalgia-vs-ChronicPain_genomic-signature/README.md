@@ -25,7 +25,7 @@ With the volcan plot representing of the proportion of upregulated and downregul
  <br>   
  <br>
 With the heatmap of the top 50 genes from differential expression analysis:<br>
-![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)  <br>
+![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png) <br>
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
 
@@ -45,4 +45,4 @@ Summary of some highlighted pathways enriched for fibromyalgia:<br>
 - **Pathways analysis**
   - Gene IDs were mappped to KEGG pathways using Entrez gene indentifiers
   - Fisher's exact test was applied to identify pathways with a statiscally significantu6hb 56  
-![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)
+
