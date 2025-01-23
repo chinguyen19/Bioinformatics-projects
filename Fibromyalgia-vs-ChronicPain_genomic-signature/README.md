@@ -23,8 +23,8 @@ With the volcan plot:
 
 - **Are there key genes central to fibromyalgia biology?**  
   The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms.
-    
-
+ <br>   
+ <br>
 
 ![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/0a4d447049d8e3b60fe3f85a571cbc40bea7fb84/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)  <br>
 With the heatmap of the top 50 genes from differential expression analysis:
@@ -33,7 +33,8 @@ With the heatmap of the top 50 genes from differential expression analysis:
 
 - **Why do some controls cluster with FM samples?**  
   This may indicate potential pre-symptomatic states, shared gene expression profiles, or variability introduced by noise in the data, warranting further investigation into these outliers.  
-
+ <br>   
+ <br>
 
 ![Figure 3: Some key enriched pathways in Fibromyalgia](https://github.com/chinguyen19/Bioinformatics-projects/blob/e3f88aebe0a6e604cc2ee737a2324085539aebc8/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png)  <br>
 Summary of some highlighted pathways enriched for fibromyalgia:
