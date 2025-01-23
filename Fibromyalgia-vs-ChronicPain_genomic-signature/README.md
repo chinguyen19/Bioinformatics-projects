@@ -21,7 +21,7 @@ With the volcan plot representing of the proportion of upregulated and downregul
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
 
 - **Are there key genes central to fibromyalgia biology?**  
-  The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms. 2671 genes were identified as upregulated, while only 120 genes were downregulated.
+  The number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms. 2671 genes were identified as upregulated, while only 120 genes were downregulated in fibromyalgia compared to control.
  <br>   
  <br>
  
