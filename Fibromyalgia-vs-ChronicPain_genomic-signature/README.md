@@ -16,7 +16,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 
 ## Findings and Insights  
 With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values:<br>
-![Figure 1: Gene Regulation Analysis with Volcano plot](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png) <br>
+![Figure 1: Gene Regulation Analysis with Volcano plot](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png) <br>
 - **Is fibromyalgia characterized by widespread gene regulation changes?**  
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
 
