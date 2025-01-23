@@ -25,7 +25,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
     
 
 
-![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap.png)
+![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/0a4d447049d8e3b60fe3f85a571cbc40bea7fb84/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
 
