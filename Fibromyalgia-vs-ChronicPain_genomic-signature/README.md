@@ -15,7 +15,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 - **Data Content**: FPKM (Fragments Per Kilobase of transcript per Million mapped reads) values generated from RNA sequencing, including data from 96 fibromyalgia patients and 93 control cases.
 
 ## Findings and Insights  
-With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values: <br>
+With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values:<br>
 ![Figure 1: Gene Regulation Analysis with Volcano plot](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png) <br>
 - **Is fibromyalgia characterized by widespread gene regulation changes?**  
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
@@ -24,7 +24,7 @@ With the volcan plot representing of the proportion of upregulated and downregul
   The limited number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms. 2671 genes were identified as upregulated, while only 120 genes were downregulated.
  <br>   
  <br>
-With the heatmap of the top 50 genes from differential expression analysis:  <br>
+With the heatmap of the top 50 genes from differential expression analysis:<br>
 ![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)  <br>
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
@@ -33,7 +33,7 @@ With the heatmap of the top 50 genes from differential expression analysis:  <br
   This may indicate potential pre-symptomatic states, shared gene expression profiles, or variability introduced by noise in the data, warranting further investigation into these outliers.  
  <br>   
  <br>
-Summary of some highlighted pathways enriched for fibromyalgia: <br>
+Summary of some highlighted pathways enriched for fibromyalgia:<br>
 ![Figure 3: Some key enriched pathways in Fibromyalgia](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png)  <br>
 - **What are the genomic signatures through enriched biological pathways in Fibromyalgia?**
  Several enriched pathways, including those involved in energy metabolism, protein synthesis, stress responses, and neuroinflammation, provides valuable insights into the underlying mechanisms of FM, specifically related to fatigue, pain, and cognitive dysfunction.
@@ -45,3 +45,4 @@ Summary of some highlighted pathways enriched for fibromyalgia: <br>
 - **Pathways analysis**
   - Gene IDs were mappped to KEGG pathways using Entrez gene indentifiers
   - Fisher's exact test was applied to identify pathways with a statiscally significantu6hb 56  
+![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)
