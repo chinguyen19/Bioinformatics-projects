@@ -17,6 +17,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 ## Findings and Insights  
 
 ![Figure 1: Gene Regulation Analysis with Volcano plot](https://github.com/chinguyen19/Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png) 
+With the volcan plot:
 - **Is fibromyalgia characterized by widespread gene regulation changes?**  
   Yes, the presence of numerous red dots suggests broad and subtle changes in gene regulation, reflecting the complex nature of fibromyalgia’s genomic signature.  
 
@@ -26,6 +27,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 
 
 ![Figure 2: Sample Clustering with Heatmap](https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/0a4d447049d8e3b60fe3f85a571cbc40bea7fb84/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png)
+With the heatmap of the top 50 genes from differential expression analysis:
 - **Can genomic expression distinguish fibromyalgia patients from controls?**  
   The distinct clustering of FM and control samples supports the idea that fibromyalgia has a unique genomic expression pattern.  
 
@@ -34,6 +36,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 
 
 ![Figure 3: Some key enriched pathways in Fibromyalgia](https://github.com/chinguyen19/Bioinformatics-projects/blob/e3f88aebe0a6e604cc2ee737a2324085539aebc8/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png)
+Summary of some highlighted pathways enriched for fibromyalgia:
 - **What are the genomic signatures through enriched biological pathways in Fibromyalgia?**
  Several enriched pathways, including those involved in energy metabolism, protein synthesis, stress responses, and neuroinflammation, provides valuable insights into the underlying mechanisms of FM, specifically related to fatigue, pain, and cognitive dysfunction.
 
