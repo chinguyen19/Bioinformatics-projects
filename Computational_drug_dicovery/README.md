@@ -18,3 +18,18 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 - **Bioactivity Data**: Compounds with bioactivity data classified as active, inactive, or intermediate.
 
 ## Findings
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Compound</th>
+      <th>Activity</th>
+      <th>Confidence</th>
+    </tr>
+    <tr>
+      <td>XYZ123</td>
+      <td>Active</td>
+      <td>0.95</td>
+    </tr>
+  </table>
+</div>
