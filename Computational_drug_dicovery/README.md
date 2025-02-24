@@ -1,7 +1,7 @@
 # Computational Drug Discovery for Acetylcholinesterase Inhibitors
 
 ## Project Overview
-Alzheimer’s disease is linked to low levels of acetylcholine, a key neurotransmitter for memory. Acetylcholinesterase (AChE) inhibitors help preserve memory by blocking the enzyme that breaks down acetylcholine. However, existing drugs have limitations.
+Alzheimer’s disease is linked to low levels of acetylcholine, a key neurotransmitter for memory. Acetylcholinesterase (AChE) inhibitors help preserve memory by blocking the enzyme that breaks down acetylcholine. However, existing drugs and traditional wet-lab based methods for drug screening have limitations.
 This project leverages machine learning to identify potential AChE inhibitors, enabling faster and more efficient drug discovery. By analyzing bioactivity data and predicting potent compounds, this approach streamlines early-stage screening for Alzheimer’s treatments.
 
 ## Objectives
