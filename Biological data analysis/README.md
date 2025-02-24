@@ -52,7 +52,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 ### Findings
 
-#### Clustering and PCA Analysis
+#### <1> Clustering and PCA Analysis
 - **Outliers Identified**: Samples **PC 6864** and **PC 9324** from the PC group clustered separately, aligning more closely with the CRPC group. This suggests potential molecular similarities with CRPC.
 - **PCA Visualization**: Differentiated expression levels were visually evident, with **green dots representing CRPC** and **red dots representing PC**, confirming the clustering patterns.
 
@@ -60,7 +60,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
   <img src="https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b" width="500">
 </p>
 
-#### Differential Expression and Volcano Plot
+#### <2> Differential Expression and Volcano Plot
 - **Differential Expression**:
   - **506 genes** met the significance criteria (p-value < 0.0001 and effect size > 1).
   - The **volcano plot** shown below highlights upregulated and downregulated genes in distinct colors, with significantly expressed genes listed at the top by ascending adjusted p-value.
@@ -73,7 +73,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - The list of top differentially expressed genes provides insights into key genetic changes between PC and CRPC samples.
   - Genes predominantly **downregulated** in the PC group may indicate reduced expression as a possible mechanism of treatment resistance.
 
-#### Pathway Enrichment Analysis
+#### <3> Pathway Enrichment Analysis
 - Enriched pathways reveal biological processes potentially underlying CRPC progression, including:
   - **Cell Division Regulation**
   - **Hormone Regulation**
@@ -85,6 +85,32 @@ EDA involved exploring the transcript data to answer key questions, such as:
   <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="600">
 </p>
 
+<table align="center">
+  <tr>
+    <th style="text-align:center;">KEGG PathwayID</th>
+    <th style="text-align:center;">Pathway name</th>
+    <th style="text-align:center;">p-value</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>KEGG PathwayID</b></td>
+    <td style="text-align:center;">05146</td>
+    <td style="text-align:center;">04512</td>
+    <td style="text-align:center;">00140</td>
+    <td style="text-align:center;">04110</td>
+    <td style="text-align:center;">05150</td>
+    <td style="text-align:center;">04974</td>
+  </tr>
+    <tr>
+    <td style="text-align:center;"><b>p-value</b></td>
+    <td style="text-align:center;">1.13e-4</td>
+    <td style="text-align:center;">1.58e-4</td>
+    <td style="text-align:center;">1.63e-4</td>
+    <td style="text-align:center;">2.39e-4</td>
+    <td style="text-align:center;">2.75e-4</td>
+    <td style="text-align:center;">3.04e-4</td>
+  </tr>
+ </table>     
+      
 ## Discussion
 - Our analyses consistently highlight **PC 6864** and **PC 9324** as **outliers**, aligning these samples more closely with CRPC than the untreated PC group. This suggests the presence of specific **genetic alterations** that could contribute to **treatment resistance** and **molecular similarity** with CRPC.
 - The **differential expression and pathway enrichment** results support the hypothesis that particular pathways related to stress, infection, and hormone regulation may play key roles in CRPC development. These findings offer a foundation for further research on therapeutic strategies to address treatment resistance in prostate cancer.
