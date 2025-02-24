@@ -44,7 +44,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png" width="500"
 </p>
   
-- **What are the genomic signatures through enriched biological pathways in Fibromyalgia?**
+- **What are the genomic signatures through enriched biological pathways in Fibromyalgia?** <br>
   Several enriched pathways, including those involved in energy metabolism, protein synthesis, stress responses, and neuroinflammation, provides valuable insights into the underlying mechanisms of FM, specifically related to fatigue, pain, and cognitive dysfunction.
 
 ## Methods
