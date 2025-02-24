@@ -5,12 +5,15 @@ Alzheimer’s disease is linked to low levels of acetylcholine, a key neurotrans
 This project leverages machine learning to identify potential AChE inhibitors, enabling faster and more efficient drug discovery. By analyzing bioactivity data and predicting potent compounds, this approach streamlines early-stage screening for Alzheimer’s treatments.
 
 ## Objectives
+- Identify potential features to classify active versus inactive compound as an AChE inhibitor.
+- Discover promising ML predictive models for screening AChE inhibitors
+
+## Main worflow
 
 - **Data Extraction**: Retrieve bioactivity data (e.g. IC50, molecular weight, number of H donors/acceptors,..) related to AChE from the ChEMBL database.
 - **Data Preprocessing**: Clean, preprocess, and transform chemical data (in Molar units) to be model-ready (in linear scale).
 - **Model Training**: Train Random Forest Regressor model to classify compounds based on their bioactivity (active or inactive) against AChE.
 - **Model Evaluation**: Assess different tree-based models' performance using relevant metrics (R-squared, Mean square of Error, Time-taken).
-- **Result Interpretation**: Identify potential features to classify active versus inactive compound, and potential ML predictive model for AChE inibitors.
 
 ## Dataset
 
