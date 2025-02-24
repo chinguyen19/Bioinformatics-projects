@@ -74,5 +74,5 @@ This indicates distinct **physicochemical property variations** influencing acet
 #### -Decision Tree regressor, Extra Tree Regressor, and Random Forest regressor achiveve an R-square of 0.77 to 0.82 with RMSE arround 0.65.
 #### -The Predicted vs. Actual pIC50 (using Random Forest model) plot shows a moderate correlation (general upward trend), with large spread of points indicating that while the model captures general trends, it struggles with precise predictions, likely due to data noise or feature limitations.
 <p align="center">
-  <img src="plot_ic50-1.png" width="400">
+  <img src="predicted-vs-true.png" width="400">
 </p>
