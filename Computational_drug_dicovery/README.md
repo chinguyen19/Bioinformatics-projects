@@ -1,4 +1,4 @@
-# Computational Drug Discovery for Acetylcholinesterase Inhibitors
+# Predicting Acetylcholinesterase Inhibitors for Alzheimer’s disease using Machine Learning: Drug Discovery application
 
 ## Project Overview
 Alzheimer’s disease is linked to low levels of acetylcholine, a key neurotransmitter for memory. Acetylcholinesterase (AChE) inhibitors help preserve memory by blocking the enzyme that breaks down acetylcholine. However, existing drugs and traditional wet-lab based methods for drug screening have limitations.
