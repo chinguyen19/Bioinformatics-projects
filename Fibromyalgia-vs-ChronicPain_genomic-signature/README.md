@@ -15,7 +15,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 - **Data Content**: FPKM (Fragments Per Kilobase of transcript per Million mapped reads) values generated from RNA sequencing, including data from 96 fibromyalgia patients and 93 control cases.
 
 ## Findings and Insights  
-With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values:<br>
+###<1> With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values:<br>
 <p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png" width="500"
 </p>
@@ -27,7 +27,7 @@ With the volcan plot representing of the proportion of upregulated and downregul
   The number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms. 2671 genes were identified as upregulated, while only 120 genes were downregulated in fibromyalgia compared to control.
  <br>   
  
-With the heatmap of the top 50 genes from differential expression analysis:<br>
+### <2> With the heatmap of the top 50 genes from differential expression analysis:<br>
 <p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png" width="500"
 </p>
@@ -39,7 +39,7 @@ With the heatmap of the top 50 genes from differential expression analysis:<br>
   This may indicate potential pre-symptomatic states, shared gene expression profiles, or variability introduced by noise in the data, warranting further investigation into these outliers.  
  <br>   
  
-Summary of some highlighted pathways enriched for fibromyalgia:<br>
+### <3> Summary of some highlighted pathways enriched for fibromyalgia:<br>
 <p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png" width="500"
 </p>
