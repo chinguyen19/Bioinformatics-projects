@@ -19,17 +19,47 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 
 ## Findings
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Compound</th>
-      <th>Activity</th>
-      <th>Confidence</th>
-    </tr>
-    <tr>
-      <td>XYZ123</td>
-      <td>Active</td>
-      <td>0.95</td>
-    </tr>
-  </table>
-</div>
+### **1) Distinct bioacitvity and physiochemical profiles of AChE inhibitors**
+#### A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
+#### All **four Lipinski’s descriptors** (Molecular Weight, LogP, HBD, HBA) showed statistically significant differences between active and inactive compounds.  
+This indicates distinct **physicochemical property variations** influencing acetylcholinesterase inhibition.  
+   
+<!--Table1-->
+<table align="center">
+  <tr>
+    <th style="text-align:center;">Descriptor</th>
+    <th style="text-align:center;">Actives (Mean ± SD)</th>
+    < th style="text-align:center;">Inactives (Mean ± SD)</th>
+    <th style="text-align:center;">Statistical Significance</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>pIC50</b></td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">p < 0.05</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Molecular Weight</b></td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">p < 0.05</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>LogP</b></td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">p < 0.05</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>HBD</b></td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">p < 0.05</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>HBA</b></td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">X.XX ± X.XX</td>
+    <td style="text-align:center;">p < 0.05</td>
+  </tr>
+</table>
