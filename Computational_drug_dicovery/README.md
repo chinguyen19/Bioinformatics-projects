@@ -60,7 +60,7 @@ This indicates distinct **physicochemical property variations** influencing acet
     <td style="text-align:center;"><b>NumHDonors</b></td>
     <td style="text-align:center;">1.26 ± 1.15</td>
     <td style="text-align:center;">1.01 ± 1.13</td>
-    <td style="text-align:center;">p 4.96e-15</td>
+    <td style="text-align:center;">p = 4.96e-15</td>
   </tr>
   <tr>
     <td style="text-align:center;"><b>NumHAcceptors</b></td>
