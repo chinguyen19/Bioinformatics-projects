@@ -26,7 +26,6 @@ With the volcan plot representing of the proportion of upregulated and downregul
 - **Are there key genes central to fibromyalgia biology?**  
   The number of green dots highlights a smaller set of genes with strong, consistent changes, potentially identifying key regulatory elements central to disease mechanisms. 2671 genes were identified as upregulated, while only 120 genes were downregulated in fibromyalgia compared to control.
  <br>   
- <br>
  
 With the heatmap of the top 50 genes from differential expression analysis:<br>
 <p align="center">
@@ -39,7 +38,6 @@ With the heatmap of the top 50 genes from differential expression analysis:<br>
 - **Why do some controls cluster with FM samples?**  
   This may indicate potential pre-symptomatic states, shared gene expression profiles, or variability introduced by noise in the data, warranting further investigation into these outliers.  
  <br>   
- <br>
  
 Summary of some highlighted pathways enriched for fibromyalgia:<br>
 <p align="center">
