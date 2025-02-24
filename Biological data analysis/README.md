@@ -83,38 +83,42 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 <table align="center">
   <tr>
-    <th style="text-align:center;">KEGG PathwayID</th>
-    <th style="text-align:center;">Pathway name</th>
+    <th style="text-align:center;">KEGG Pathway ID</th>
+    <th style="text-align:center;">Pathway Name</th>
     <th style="text-align:center;">p-value</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><b>KEGG PathwayID</b></td>
     <td style="text-align:center;">05146</td>
-    <td style="text-align:center;">04512</td>
-    <td style="text-align:center;">00140</td>
-    <td style="text-align:center;">04110</td>
-    <td style="text-align:center;">05150</td>
-    <td style="text-align:center;">04974</td>
+    <td style="text-align:center;">Amoebiasis</td>
+    <td style="text-align:center;">1.13e-4</td>
   </tr>
   <tr>
-    <td style="text-align:center;"><b>Pathway name</b></td>
-    <td style="text-align:center;">05146</td>
     <td style="text-align:center;">04512</td>
-    <td style="text-align:center;">00140</td>
-    <td style="text-align:center;">04110</td>
-    <td style="text-align:center;">05150</td>
-    <td style="text-align:center;">04974</td>
-  </tr>
-    <tr>
-    <td style="text-align:center;"><b>p-value</b></td>
-    <td style="text-align:center;">1.13e-4</td>
+    <td style="text-align:center;">ECM-receptor interaction</td>
     <td style="text-align:center;">1.58e-4</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">00140</td>
+    <td style="text-align:center;">Steroid hormone biosynthesis</td>
     <td style="text-align:center;">1.63e-4</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">04110</td>
+    <td style="text-align:center;">Cell cycle</td>
     <td style="text-align:center;">2.39e-4</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">05150</td>
+    <td style="text-align:center;">Staphylococcus aureus infection</td>
     <td style="text-align:center;">2.75e-4</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">04974</td>
+    <td style="text-align:center;">Protein digestion and absorption</td>
     <td style="text-align:center;">3.04e-4</td>
   </tr>
- </table>     
+</table>
+  
       
 ## Discussion
 - Our analyses consistently highlight **PC 6864** and **PC 9324** as **outliers**, aligning these samples more closely with CRPC than the untreated PC group. This suggests the presence of specific **genetic alterations** that could contribute to **treatment resistance** and **molecular similarity** with CRPC.
