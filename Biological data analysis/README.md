@@ -81,10 +81,6 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Infection Response**
   - **Blood Regulation**
 
-<p align="center">
-  <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="600">
-</p>
-
 <table align="center">
   <tr>
     <th style="text-align:center;">KEGG PathwayID</th>
@@ -93,6 +89,15 @@ EDA involved exploring the transcript data to answer key questions, such as:
   </tr>
   <tr>
     <td style="text-align:center;"><b>KEGG PathwayID</b></td>
+    <td style="text-align:center;">05146</td>
+    <td style="text-align:center;">04512</td>
+    <td style="text-align:center;">00140</td>
+    <td style="text-align:center;">04110</td>
+    <td style="text-align:center;">05150</td>
+    <td style="text-align:center;">04974</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Pathway name</b></td>
     <td style="text-align:center;">05146</td>
     <td style="text-align:center;">04512</td>
     <td style="text-align:center;">00140</td>
