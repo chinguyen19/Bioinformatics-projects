@@ -84,10 +84,9 @@ EDA involved exploring the transcript data to answer key questions, such as:
 <p align="center">
   <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="600">
 </p>
+
 ## Discussion
-
-Our analyses consistently highlight **PC 6864** and **PC 9324** as **outliers**, aligning these samples more closely with CRPC than the untreated PC group. This suggests the presence of specific **genetic alterations** that could contribute to **treatment resistance** and **molecular similarity** with CRPC.
-
-The **differential expression and pathway enrichment** results support the hypothesis that particular pathways related to stress, infection, and hormone regulation may play key roles in CRPC development. These findings offer a foundation for further research on therapeutic strategies to address treatment resistance in prostate cancer.
+- Our analyses consistently highlight **PC 6864** and **PC 9324** as **outliers**, aligning these samples more closely with CRPC than the untreated PC group. This suggests the presence of specific **genetic alterations** that could contribute to **treatment resistance** and **molecular similarity** with CRPC.
+- The **differential expression and pathway enrichment** results support the hypothesis that particular pathways related to stress, infection, and hormone regulation may play key roles in CRPC development. These findings offer a foundation for further research on therapeutic strategies to address treatment resistance in prostate cancer.
 
 
