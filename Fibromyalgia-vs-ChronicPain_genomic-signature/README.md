@@ -16,7 +16,7 @@ Fibromyalgia is a complex chronic pain disorder often misdiagnosed due to sympto
 
 ## Findings and Insights  
 With the volcan plot representing of the proportion of upregulated and downregulated genes based on their gene expression values:<br>
-<p >
+<p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/volcano.png" width="500"
 </p>
   
@@ -29,7 +29,7 @@ With the volcan plot representing of the proportion of upregulated and downregul
  <br>
  
 With the heatmap of the top 50 genes from differential expression analysis:<br>
-<p >
+<p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/heatmap_30DEGs_manhattan.png" width="500"
 </p>
   
@@ -42,7 +42,7 @@ With the heatmap of the top 50 genes from differential expression analysis:<br>
  <br>
  
 Summary of some highlighted pathways enriched for fibromyalgia:<br>
-<p >
+<p align="center">
   <img src="https://github.com/chinguyen19/Data-Science-Bioinformatics-projects/blob/main/Fibromyalgia-vs-ChronicPain_genomic-signature/key_enrichedPathways.png" width="500"
 </p>
   
