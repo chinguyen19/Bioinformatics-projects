@@ -79,3 +79,11 @@ This indicates distinct **physicochemical property variations** influencing acet
 <p align="center">
   <img src="predicted-vs-true.png" width="400">
 </p>
+
+## Future Work & Improvements  
+
+- **Enhancing Model Performance**: Optimize hyperparameters of the promising models to further improve predictive accuracy.  
+- **Feature Engineering**: Incorporate molecular descriptors beyond PaDEL, such as 3D conformational features, for better structure-activity relationship modeling.  
+- **Expanding the Dataset**: Include more diverse bioactivity data from additional databases (e.g., PubChem, ZINC) to improve model generalizability.  
+- **Experimental Validation**: Prioritize top predicted compounds for in-vitro testing to validate computational predictions.  
+- **Interpretability & Explainability**: Implement SHAP or feature importance analysis to explain the model's predictions for improving trust and understanding in the model's results.  
