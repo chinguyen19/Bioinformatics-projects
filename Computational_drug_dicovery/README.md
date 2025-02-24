@@ -20,16 +20,21 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 ## Findings
 
 ### **1) Distinct bioacitvity and physiochemical profiles of AChE inhibitors**
-#### A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
-#### All **four Lipinski’s descriptors** (Molecular Weight, LogP, HBD, HBA) showed statistically significant differences between active and inactive compounds.  
-This indicates distinct **physicochemical property variations** influencing acetylcholinesterase inhibition.  
+#### - A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
+
+<p align="center">
+  <img src="Computational_drug_dicovery/plot_ic50.pdf" alt="Summary Table" width="600">
+</p>
+
+#### - All **four Lipinski’s descriptors** (Molecular Weight, LogP, HBD, HBA) showed statistically significant differences between active and inactive compounds.  
+This indicates distinct **physicochemical property variations** influencing acetylcholinesterase inhibition.
    
 <!--Table1-->
 <table align="center">
   <tr>
     <th style="text-align:center;">Descriptor</th>
     <th style="text-align:center;">Actives (Mean ± SD)</th>
-    < th style="text-align:center;">Inactives (Mean ± SD)</th>
+    <th style="text-align:center;">Inactives (Mean ± SD)</th>
     <th style="text-align:center;">Statistical Significance</th>
   </tr>
   <tr>
