@@ -75,11 +75,7 @@ EDA involved exploring the transcript data to answer key questions, such as:
 
 #### <3> Pathway Enrichment Analysis
 - Enriched pathways reveal biological processes potentially underlying CRPC progression, including:
-  - **Cell Division Regulation**
-  - **Hormone Regulation**
-  - **Stress Response**
-  - **Infection Response**
-  - **Blood Regulation**
+  - **Cell Division Regulation**, **Hormone Regulation**, **Stress Response**, **Infection Response**, **Blood Regulation**
 
 <table align="center">
   <tr>
