@@ -16,7 +16,7 @@ This project leverages machine learning to identify potential AChE inhibitors, e
 
 - **Data Source**: ChEMBL database
 - **Target Protein**: Acetylcholinesterase (ChEMBL ID: CHEMBL220)
-- **Bioactivity Data**: Compounds with bioactivity data classified as active, inactive, or intermediate.
+- **Bioactivity Data**: Compounds are classified as active, intermediate, or inactive based on IC50 thresholds, where IC50 < 1,000 nM indicates **strong inhibition (active)**, 1,000–10,000 nM represents moderate inhibition (intermediate), and IC50 ≥ 10,000 nM denotes **weak or no inhibition (inactive)**.
 
 ## Findings
 
