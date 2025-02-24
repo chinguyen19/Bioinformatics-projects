@@ -23,7 +23,7 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 #### - A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
 
 <p align="center">
-  <img src="Computational_drug_dicovery/plot_ic50-1.png" width="300">
+  <img src="plot_ic50-1.png" width="300">
 </p>
 
 #### - All **four Lipinski’s descriptors** (Molecular Weight, LogP, HBD, HBA) showed statistically significant differences between active and inactive compounds.  
