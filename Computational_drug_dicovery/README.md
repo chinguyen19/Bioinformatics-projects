@@ -21,7 +21,7 @@ This project leverages machine learning to identify potential AChE inhibitors, e
 ## Findings
 
 ### **1) Distinct bioacitvity and physiochemical profiles between active and inactive AChE inhibitors**
-#### - A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
+- A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
 
 <p align="center">
   <img src="plot_ic50-1.png" width="400">
@@ -70,9 +70,9 @@ This indicates distinct **physicochemical property variations** influencing acet
   </tr>
 </table>
 
-### **2)  Tree-based models show potential predictive power
-#### -Decision Tree regressor, Extra Tree Regressor, and Random Forest regressor achiveve an R-square of 0.77 to 0.82 with RMSE arround 0.65.
-#### -The Predicted vs. Actual pIC50 (using Random Forest model) plot shows a moderate correlation (general upward trend), with large spread of points indicating that while the model captures general trends, it struggles with precise predictions, likely due to data noise or feature limitations.
+### **2)  Tree-based models show potential predictive power**
+ -Decision Tree regressor, Extra Tree Regressor, and Random Forest regressor achiveve an R-square of 0.77 to 0.82 with RMSE arround 0.65.
+ -The Predicted vs. Actual pIC50 (using Random Forest model) plot shows a moderate correlation (general upward trend), with large spread of points indicating that while the model captures general trends, it struggles with precise predictions, likely due to data noise or feature limitations.
 <p align="center">
   <img src="predicted-vs-true.png" width="400">
 </p>
