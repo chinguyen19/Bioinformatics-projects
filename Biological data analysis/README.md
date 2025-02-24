@@ -57,7 +57,9 @@ EDA involved exploring the transcript data to answer key questions, such as:
 - **PCA Visualization**: Differentiated expression levels were visually evident, with **green dots representing CRPC** and **red dots representing PC**, confirming the clustering patterns.
 
   ![pca](https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b" width="400">
+</p>
 
 #### Differential Expression and Volcano Plot
 - **Differential Expression**:
@@ -78,7 +80,9 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Blood Regulation**
 
     ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
-
+<p align="center">
+  <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="400">
+</p>
 ## Discussion
 
 Our analyses consistently highlight **PC 6864** and **PC 9324** as **outliers**, aligning these samples more closely with CRPC than the untreated PC group. This suggests the presence of specific **genetic alterations** that could contribute to **treatment resistance** and **molecular similarity** with CRPC.
