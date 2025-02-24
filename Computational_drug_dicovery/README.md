@@ -1,15 +1,16 @@
 # Computational Drug Discovery for Acetylcholinesterase Inhibitors
 
 ## Project Overview
-People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter crucial for memory. The enzyme Acetylcholinesterase (AChE) breaks down acetylcholine, so AChE inhibitors are used to block this action, helping to preserve memory function. Current drugs have limits, so this project uses machine learning to identify new, effective inhibitors that could better support patients with Alzheimer’s and similar diseases. Indentifying potential AChE inhibitors through computational models provides an efficient way to screen compounds and accelerate drug discovery.
+Alzheimer’s disease is linked to low levels of acetylcholine, a key neurotransmitter for memory. Acetylcholinesterase (AChE) inhibitors help preserve memory by blocking the enzyme that breaks down acetylcholine. However, existing drugs have limitations.
+This project leverages machine learning to identify potential AChE inhibitors, enabling faster and more efficient drug discovery. By analyzing bioactivity data and predicting potent compounds, this approach streamlines early-stage screening for Alzheimer’s treatments.
 
 ## Objectives
 
-- **Data Extraction**: Retrieve bioactivity data related to AChE from the ChEMBL database.
-- **Data Preprocessing**: Clean, preprocess, and transform chemical data to be model-ready.
-- **Model Training**: Train a machine learning model to classify compounds based on their bioactivity (active or inactive) against AChE.
-- **Model Evaluation**: Assess model performance using relevant metrics.
-- **Result Interpretation**: Identify potential lead compounds for further experimental validation.
+- **Data Extraction**: Retrieve bioactivity data (e.g. IC50, molecular weight, number of H donors/acceptors,..) related to AChE from the ChEMBL database.
+- **Data Preprocessing**: Clean, preprocess, and transform chemical data (in Molar units) to be model-ready (in linear scale).
+- **Model Training**: Train Random Forest Regressor model to classify compounds based on their bioactivity (active or inactive) against AChE.
+- **Model Evaluation**: Assess different tree-based models' performance using relevant metrics (R-squared, Mean square of Error, Time-taken).
+- **Result Interpretation**: Identify potential features to classify active versus inactive compound, and potential ML predictive model for AChE inibitors.
 
 ## Dataset
 
@@ -19,7 +20,7 @@ People with Alzheimer’s have lower levels of acetylcholine, a neurotransmitter
 
 ## Findings
 
-### **1) Distinct bioacitvity and physiochemical profiles of AChE inhibitors**
+### **1) Distinct bioacitvity and physiochemical profiles between active and inactive AChE inhibitors**
 #### - A statiscally significant difference was observed between active and inactive compound based on pIC50 values, confirming a clear separation based on bioactivity (Man-Whitney statistical test)
 
 <p align="center">
@@ -68,3 +69,10 @@ This indicates distinct **physicochemical property variations** influencing acet
     <td style="text-align:center;">p = 3e-6</td>
   </tr>
 </table>
+
+### **2)  Tree-based models show potential predictive power
+#### -Decision Tree regressor, Extra Tree Regressor, and Random Forest regressor achiveve an R-square of 0.77 to 0.82 with RMSE arround 0.65.
+#### -The Predicted vs. Actual pIC50 (using Random Forest model) plot shows a moderate correlation (general upward trend), with large spread of points indicating that while the model captures general trends, it struggles with precise predictions, likely due to data noise or feature limitations.
+<p align="center">
+  <img src="plot_ic50-1.png" width="400">
+</p>
