@@ -56,16 +56,18 @@ EDA involved exploring the transcript data to answer key questions, such as:
 - **Outliers Identified**: Samples **PC 6864** and **PC 9324** from the PC group clustered separately, aligning more closely with the CRPC group. This suggests potential molecular similarities with CRPC.
 - **PCA Visualization**: Differentiated expression levels were visually evident, with **green dots representing CRPC** and **red dots representing PC**, confirming the clustering patterns.
 
-  ![pca](https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b" width="400">
+  <img src="https://github.com/user-attachments/assets/edf84705-4802-4d5a-a8b5-0e326d9f934b" width="500">
 </p>
 
 #### Differential Expression and Volcano Plot
 - **Differential Expression**:
   - **506 genes** met the significance criteria (p-value < 0.0001 and effect size > 1).
   - The **volcano plot** shown below highlights upregulated and downregulated genes in distinct colors, with significantly expressed genes listed at the top by ascending adjusted p-value.
-![volcano plot displaying genes with differences of means and -log10(p_vlaues)](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/09b32518-6940-43a7-aeb5-7c1539f8887e)
+
+<p align="center">
+  <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/09b32518-6940-43a7-aeb5-7c1539f8887e" width="500">
+</p>
 
 - **Significant Genes**: 
   - The list of top differentially expressed genes provides insights into key genetic changes between PC and CRPC samples.
@@ -79,9 +81,8 @@ EDA involved exploring the transcript data to answer key questions, such as:
   - **Infection Response**
   - **Blood Regulation**
 
-    ![enriched pathways](https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0)
 <p align="center">
-  <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="400">
+  <img src="https://github.com/chinguyen19/Bioinformatics-projects/assets/66997827/a41f7091-60a7-4b47-92eb-a01475de51d0" width="600">
 </p>
 ## Discussion
 
